@@ -1,21 +1,50 @@
-#include "test.h"
-#include <iostream>
-#include <fstream>
-
+#include "test.hpp"
 
 int main()
 {
-    std::ofstream file;
-    file.open("temp/test.txt");
+    std::string dbDir = ".Manager";
+    std::string dbName = "data.json";
 
-    if (!file.is_open())
+    if (!FoundDatabase(dbDir, dbName))
     {
-        return -1;
+        std::cout << "- No database found.\n";
+
+        if (CreateDatabase(dbDir, dbName) == 0)
+        {
+            std::cout << "- Created database.\n";
+        }
+        else
+        {
+            std::cout << "- Failed to create database.\n";
+            return 1;
+        }
     }
 
-    file << "mep ._.";
+    json db = LoadDatabase(dbDir + "/" + dbName);
+    std::cout << "- Loaded: " << dbName << '\n';
 
-    file.close();
+
+    for (const auto& entry : std::filesystem::directory_iterator("."))
+    {
+        if (entry.path().extension() == ".png")
+        {
+            std::cout << entry.path() << '\n';
+        }
+    }
+    /*
+    find all files .png
+    "files":
+    [
+        "exemple.png":{
+            "date": 111120,
+            "tags": "car"
+        },
+        "exemple2.png": {
+            "date": 111220,
+            "tags": "cat"
+        }
+    ]
+    */
 
     return 0;
 }
