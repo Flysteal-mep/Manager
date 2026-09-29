@@ -1,0 +1,1873 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CMAKE_CURRE",
+				"CMAKE_CURRENT_SOURCE_DIR"
+			],
+			[
+				"cmake",
+				"cmake_minimum_required\tbuiltin"
+			],
+			[
+				"ios",
+				"iostream>"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"glfwShould",
+				"glfwWindowShouldClose"
+			],
+			[
+				"GLFW_",
+				"GLFW_FALSE"
+			],
+			[
+				"rende",
+				"renderer"
+			],
+			[
+				"m_vulka",
+				"m_vulkanDevice"
+			],
+			[
+				"dep",
+				"depthStencilInfo"
+			],
+			[
+				"ras",
+				"rastirezierInfo"
+			],
+			[
+				"vert",
+				"vertexInputInfo"
+			],
+			[
+				"shader",
+				"shaderStages"
+			],
+			[
+				"uint",
+				"uint32"
+			],
+			[
+				"dynam",
+				"dynamicState"
+			],
+			[
+				"VK_DY",
+				"VK_DYNAMIC_STATE_SCISSOR"
+			],
+			[
+				"VkPipelineColor",
+				"VkPipelineColorBlendStateCreateInfo"
+			],
+			[
+				"Vk_color_co",
+				"VK_COLOR_COMPONENT_R_BIT"
+			],
+			[
+				"VK_STRUCTURE_TYPE_PIPELINE_COLOR_BLEND",
+				"VK_STRUCTURE_TYPE_PIPELINE_COLOR_BLEND_STATE_CREATE_INFO"
+			],
+			[
+				"VkPipelineColorBl",
+				"VkPipelineColorBlendStateCreateInfo"
+			],
+			[
+				"ra",
+				"rastirezier"
+			],
+			[
+				"VK_FRONT_FACE",
+				"VK_FRONT_FACE_COUNTER_CLOCKWISE"
+			],
+			[
+				"VK_CULLMODE_",
+				"VK_CULL_MODE_BACK_BIT"
+			],
+			[
+				"VK_POLYGONE",
+				"VK_POLYGON_MODE_FILL"
+			],
+			[
+				"VkPipelineRas",
+				"VkPipelineRasterizationStateCreateInfo"
+			],
+			[
+				"VK_COM",
+				"VK_COMPARE_OP_LESS"
+			],
+			[
+				"VK_PIPELINE_DEPTH_STENCIL_S",
+				"VK_STRUCTURE_TYPE_PIPELINE_DEPTH_STENCIL_STATE_CREATE_INFO"
+			],
+			[
+				"VkPipelineDepthS",
+				"VkPipelineDepthStencilStateCreateInfo"
+			],
+			[
+				"VK_STRUCTURE_TYPE_PIPELINE_",
+				"VK_STRUCTURE_TYPE_PIPELINE_INPUT_ASSEMBLY_STATE_CREATE_INFO"
+			],
+			[
+				"de",
+				"depth"
+			],
+			[
+				"m_de",
+				"m_depthImageAllocation"
+			],
+			[
+				"vkDestroyImage",
+				"vkDestroyImageView"
+			],
+			[
+				"vkDes",
+				"vkDestroySwapchainKHR"
+			],
+			[
+				"m_vulkan",
+				"m_vulkanCompleteSemaphores"
+			],
+			[
+				"m_vulk",
+				"m_vulkanDevice"
+			],
+			[
+				"m_vulkanSw",
+				"m_vulkanSwapchainImageViews"
+			],
+			[
+				"Image",
+				"VkImageView"
+			],
+			[
+				"m_depth",
+				"m_depthImageView"
+			],
+			[
+				"VK_IMAGE",
+				"VK_IMAGE_TYPE_2D"
+			],
+			[
+				"m_dep",
+				"m_depthImage"
+			],
+			[
+				"VKCreateImage",
+				"vkCreateImageView"
+			],
+			[
+				"VMA_MEMOR",
+				"VMA_MEMORY_USAGE_AUTO"
+			],
+			[
+				"VmaAllocation",
+				"VmaAllocationInfo"
+			],
+			[
+				"VK_IMAGE_LAYO",
+				"VK_IMAGE_LAYOUT_UNDEFINED"
+			],
+			[
+				"VK_IMAGE_TILI",
+				"VK_IMAGE_TILING_OPTIMAL"
+			],
+			[
+				"VK_SAMPLE_",
+				"VK_SAMPLE_COUNT_1_BIT"
+			],
+			[
+				"m_swa",
+				"m_swapchainWidth"
+			],
+			[
+				"VK_IMAGE_TYPE_",
+				"VK_IMAGE_TYPE_2D"
+			],
+			[
+				"VkImageCre",
+				"VkImageCreateInfo"
+			],
+			[
+				"VkSemaphoreC",
+				"VkSemaphoreCreateInfo"
+			],
+			[
+				"m_vulkanSwa",
+				"m_vulkanSwapchainImageViews"
+			],
+			[
+				"VK_IMAGE_ASP",
+				"VK_IMAGE_ASPECT_COLOR_BIT"
+			],
+			[
+				"VK_IMAGE_VIEW_",
+				"VK_IMAGE_VIEW_TYPE_1D"
+			],
+			[
+				"m_sw",
+				"m_swapChainFormat"
+			],
+			[
+				"VkCreateImage",
+				"vkCreateImageView"
+			],
+			[
+				"m_vulkanSwapchainIm",
+				"m_vulkanSwapchainImageViews"
+			],
+			[
+				"ui",
+				"uint32_t"
+			],
+			[
+				"VK_FORMAT_B8",
+				"VK_FORMAT_B8G8R8_SRGB"
+			],
+			[
+				"uin",
+				"uint32_t"
+			],
+			[
+				"surfa",
+				"surfaceFormat"
+			],
+			[
+				"sur",
+				"surfaceFormats"
+			],
+			[
+				"VkSurfac",
+				"VkSurfaceFormatKHR"
+			],
+			[
+				"forma",
+				"formatCount"
+			],
+			[
+				"VkSurfaceForma",
+				"VkSurfaceFormatKHR"
+			],
+			[
+				"ve",
+				"vector"
+			],
+			[
+				"VK_COMPOSITE_ALPH",
+				"VK_COMPOSITE_ALPHA_INHERIT_BIT_KHR"
+			],
+			[
+				"VK_COMPOSITE_A",
+				"VK_COMPOSITE_ALPHA_OPAQUE_BIT_KHR"
+			],
+			[
+				"VK_IMAGE_USAGE_",
+				"VK_IMAGE_USAGE_COLOR_ATTACHMENT_BIT"
+			],
+			[
+				"m_s",
+				"m_swapchainHeight"
+			],
+			[
+				"m_grap",
+				"m_graphicsQueueIndex"
+			],
+			[
+				"m_vul",
+				"m_vulkanSurface"
+			],
+			[
+				"vkGetPhysicalDeviceSurfaceCa",
+				"vkGetPhysicalDeviceSurfaceCapabilitiesKHR"
+			],
+			[
+				"vkGetPhysical",
+				"vkGetPhysicalDeviceSurfaceSupportKHR"
+			],
+			[
+				"VkSurfaceCa",
+				"VkSurfaceCapabilitiesKHR"
+			],
+			[
+				"ph",
+				"physicalDevices"
+			],
+			[
+				"m_",
+				"m_graphicsQueueIndex"
+			],
+			[
+				"m",
+				"m_vulkanDevice"
+			],
+			[
+				"vkGetDe",
+				"vkGetDeviceQueue"
+			],
+			[
+				"pEnabl",
+				"ppEnabledLayerNames"
+			],
+			[
+				"ppEnab",
+				"ppEnabledExtensionNames"
+			],
+			[
+				"queueFa",
+				"queueFamilyCount"
+			],
+			[
+				"VkPhysicalDeviceVulkan",
+				"VkPhysicalDeviceVulkan14Features"
+			],
+			[
+				"UINT32_",
+				"UINT32_MAX"
+			],
+			[
+				"queu",
+				"queue"
+			],
+			[
+				"VK_",
+				"VK_FALSE"
+			],
+			[
+				"queueF",
+				"queueFamilyCount"
+			],
+			[
+				"vkDe",
+				"vkDestroySurfaceKHR"
+			],
+			[
+				"m_vulkn",
+				"m_vulkanSurface"
+			],
+			[
+				"VkS",
+				"VkSurfaceKHR"
+			],
+			[
+				"m_w",
+				"m_width"
+			],
+			[
+				"app",
+				"appInfo"
+			],
+			[
+				"message",
+				"messageSeverity"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"messe",
+				"messegeType"
+			],
+			[
+				"vec",
+				"vector"
+			],
+			[
+				"insta",
+				"instanceExtensionsCount"
+			],
+			[
+				"ap",
+				"aplication"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"A",
+				"App::App"
+			],
+			[
+				"pro",
+				"protected"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"add",
+				"add_subdirectory"
+			],
+			[
+				"side",
+				"sideAB"
+			],
+			[
+				"Po",
+				"PointOnRightSideOfLine"
+			],
+			[
+				"fl",
+				"float2"
+			],
+			[
+				"S",
+				"SetColor"
+			],
+			[
+				"nor",
+				"normalized_y"
+			],
+			[
+				"target_",
+				"target_link_directories"
+			],
+			[
+				"sc",
+				"src"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"info",
+				"infoHeaderSize"
+			],
+			[
+				"fileHea",
+				"fileHeaderSize"
+			],
+			[
+				"c",
+				"char"
+			],
+			[
+				"fileHe",
+				"fileHeaderSize"
+			],
+			[
+				"v",
+				"vector"
+			],
+			[
+				"glfw",
+				"glfwInit"
+			],
+			[
+				"ad",
+				"add_executable"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"mal",
+				"malloc"
+			],
+			[
+				"r",
+				"random_number"
+			],
+			[
+				"ran",
+				"random_number"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"std",
+				"stdio.h"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"ray",
+				"ray_direction"
+			],
+			[
+				"Get",
+				"GetTime"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.cpp",
+			"file_size": 587,
+			"file_write_time": 134351495048351132,
+			"settings":
+			{
+				"buffer_size": 587,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAACQCAAAAAAAAJQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAIAAAAAAAAkAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"reindent",
+					null,
+					"AQAAACUCAAAAAAAAKQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQIAAAAAAAAlAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"cut",
+					null,
+					"AQAAADoAAAAAAAAAOgAAAAAAAAB0AQAALy8gb3BlbiB0aGUgZGlyZWN0b3J5Ci8vIHNlZSBob3cgbWFueSBmaWxlcyB0aGVyZSBhcmUKLy8gbWFrZSBhIHNpbXBsZSBpbmRleCBsaXN0Ci8vIGNyZWF0ZSBhIERhdGFCYXNlIGZvciB0YWdzCgovLyBvcHRpb24gInJvb3QtYWxsIgogICAgLy8gZ2V0IGFsbCBwaWN0dXJlcyBpbiBvbmUgcm9vdCBmb2xkZXIKCi8vIG9wdGlvbiAiZGF0ZSBhcmFuZ2UiCiAgICAvLyB3aWxsIGFyYW5nZSBwaWN0dXJlcyBiYXNlZCBvbiB0aGUgZGF0ZQogICAgLy8gKGluIHN1YmZvbGRlcnMgb2YgbWFpbikKCi8vIFRhZ3MKLy8gSSB3YW50IGluIHRoZSBmdXR1cmUgYSBzaW1wbGUgYWkgc3lzdGVtIHRvIHVzZSB0aGUgdGFncyB0byBjb3JlbGF0ZSBiZXR3ZW4gdGhlbS4K",
+					"AQAAAAAAAAABAAAArgEAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AwAAAMYAAAAAAAAAxwAAAAAAAAAAAAAAsQAAAAAAAACxAAAAAAAAAAQAAAAgICAgwwAAAAAAAADEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"paste",
+					null,
+					"AQAAAMQAAAAAAAAAOAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxAAAAAAAAADEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "\nstd;:"
+					},
+					"BwAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAE0AAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABPAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					2,
+					"left_delete",
+					null,
+					"AgAAAFAAAAAAAAAAUAAAAAAAAAABAAAAOk8AAAAAAAAATwAAAAAAAAABAAAAOw",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "::fire"
+					},
+					"BgAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABRAAAAAAAAAAAAAABRAAAAAAAAAFIAAAAAAAAAAAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFQAAAAAAAAAVAAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAFEAAAAAAAAAUQAAAAAAAAADAAAAZmly",
+					"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "fo"
+					},
+					"AgAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFIAAAAAAAAAUgAAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "ile"
+					},
+					"AwAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"LSP-clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							34,
+							43,
+							2
+						],
+						"trigger": "filesystem"
+					},
+					"AwAAAFQAAAAAAAAAVAAAAAAAAAABAAAAZVEAAAAAAAAAUQAAAAAAAAADAAAAZmlsUQAAAAAAAABbAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"",
+					null,
+					"AQAAAFEAAAAAAAAAWQAAAAAAAAAKAAAAZmlsZXN5c3RlbQ",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "Packages/User/SkyLands.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/SkyLands.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SkyLands.sublime-build",
+					"Build & run"
+				]
+			],
+			[
+				"Packages/User/SkyLands.sublime-build",
+				"Build & run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/SkyLands.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SkyLands.sublime-build",
+					"build file"
+				],
+				[
+					"Packages/User/SkyLands.sublime-build",
+					"Run build file"
+				]
+			],
+			[
+				"Packages/User/SkyLands.sublime-build",
+				"build file"
+			]
+		]
+	],
+	"build_varint": "Build & run",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"lsp claged se",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"pakege ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pk remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ansi",
+				"Set Syntax: ANSI"
+			],
+			[
+				"pkg i",
+				"Package Control: Install Package"
+			],
+			[
+				"nvi",
+				"NeoVintageous: Toggle CTRL keys"
+			],
+			[
+				"neo",
+				"NeoVintageous: Toggle CTRL keys"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"lsp",
+				"LSP: Find References"
+			],
+			[
+				"pakege lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pakge ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ENAB",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"set syntax gls",
+				"Set Syntax: GLSL"
+			],
+			[
+				"list pakge",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"packea",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"set syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax c",
+				"Set Syntax: C++"
+			],
+			[
+				"set c",
+				"Set Syntax: C++"
+			],
+			[
+				"set synta",
+				"Set Syntax: C"
+			],
+			[
+				"pk",
+				"Package Control: Install Package"
+			],
+			[
+				"LSP",
+				"Preferences: LSP Settings"
+			],
+			[
+				"l",
+				"LSP: Restart Server"
+			],
+			[
+				"for",
+				"Clang Format: Format Selection"
+			],
+			[
+				"pkg in",
+				"Package Control: Install Package"
+			],
+			[
+				"pkg remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pkg ins",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntac",
+				"Set Syntax: C++"
+			],
+			[
+				"mai",
+				"Set Syntax: Git Mailmap"
+			],
+			[
+				"pkg rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"LiveReload: Enable/disable plug-ins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"pkg",
+				"Package Control: Install Package"
+			],
+			[
+				"gotma",
+				"Clang Format: Format Selection"
+			],
+			[
+				"format ",
+				"LSP: Format Selection"
+			],
+			[
+				"set ",
+				"Set Syntax: C"
+			],
+			[
+				"LSP RE",
+				"LSP: Rename Symbol"
+			],
+			[
+				"LSP renam",
+				"LSP: Rename Symbol"
+			],
+			[
+				"lsp ",
+				"LSP: Refactor"
+			],
+			[
+				"se c",
+				"Set Syntax: C++"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"set syntac c",
+				"Set Syntax: C++"
+			],
+			[
+				"s",
+				"Set Syntax: C"
+			],
+			[
+				"glsl",
+				"Set Syntax: GLSL"
+			],
+			[
+				"pkg install",
+				"Package Control: Install Package"
+			],
+			[
+				"set sy c",
+				"Set Syntax: C++"
+			],
+			[
+				"vis",
+				"View: Toggle Side Bar"
+			],
+			[
+				"de",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"set",
+				"Set Syntax: C"
+			],
+			[
+				"toggle men",
+				"View: Toggle Menu"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"mark",
+				"Bookmarks: Clear All"
+			],
+			[
+				"boo",
+				"Bookmarks: Toggle"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"set sync",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 769.0,
+		"history":
+		[
+			"python cancel_build.py",
+			"sublime.run_command(\"open_terminal\")",
+			"sublime.load_settings(\"Preferences.sublime-settings\").set(\"terminal\", \"alacritty\")",
+			"sublime.load_settings(\"Preferences.sublime-settings\").get(\"terminal_path\")",
+			"sublime.load_settings(\"Preferences.sublime-settings\").get(\"terminal\")",
+			"sublime.active_window().run_command(\"open_terminal\")",
+			"sublime.platform()",
+			"sublime.format_command(\"open_terminal\")",
+			"sublime.run_command(\"open_terminal\")",
+			"sublime.version()",
+			"view.run_command(\"open_terminal\", {})",
+			"view.run_command(\"open_terminal\")",
+			"view.run_command(\"open_terminal_project_folder\")",
+			"sublime.run_command(\"open_terminal\")",
+			"clear",
+			"sublime.run_command(\"open_terminal\")",
+			"view.run_command(\"open_terminal\")",
+			"open_terminal",
+			"open_terminal()",
+			"open_terminal",
+			"12",
+			"3840*2160"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/fly/Projects/Manager",
+		"/home/fly/Projects/Manager/include",
+		"/home/fly/Projects/Manager/src",
+		"/home/fly/Projects/Manager/temp"
+	],
+	"file_history":
+	[
+		"/home/fly/Projects/Manager/src/main.cpp",
+		"/home/fly/.config/sublime-text/Packages/User/cancel_build.py",
+		"/home/fly/.config/sublime-text/Packages/User/cancel_build_on_panel_close.py",
+		"/home/fly/Projects/Graphics/src/main.cpp",
+		"/home/fly/Projects/Manager/CMakeLists.txt",
+		"/home/fly/Projects/Manager/build.sh",
+		"/home/fly/Projects/Manager/include/test.h",
+		"/home/fly/.config/sublime-text/Packages/User/SkyLands.sublime-build",
+		"/home/fly/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/fly/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/fly/Projects/Graphics/src/all.hpp",
+		"/home/fly/Projects/Graphics/build.sh",
+		"/home/fly/Projects/Graphics/CMakeLists.txt",
+		"/home/fly/Downloads/project-monitorize/linux/scripts/install.sh",
+		"/usr/include/vulkan/vulkan_core.h",
+		"/home/fly/Downloads/SDL3-3.4.16/INSTALL.md",
+		"/home/fly/Projects/GraphicsLibrary/CMakeLists.txt",
+		"/home/fly/Projects/GraphicsLibrary/src/main.cpp",
+		"/home/fly/Documents/School/eng/text.txt",
+		"/home/fly/Documents/School/french/text.txt",
+		"/home/fly/Projects/GraphicsLibrary/build.sh",
+		"/home/fly/.config/sublime-text/Packages/User/test.sublime-syntax",
+		"/home/fly/Projects/GraphicsLibrary/build/build.ninja",
+		"/home/fly/Special/Safe.kdbx",
+		"/home/fly/Projects/GraphicsLibrary/src/mepo.cpp",
+		"/home/fly/MotoG32_Backup_2026-08-31_18-24-21/partition_list.txt",
+		"/home/fly/MotoG32_Backup_2026-08-31_18-24-21/device_info.txt",
+		"/home/fly/Projects/GraphicsLibrary/include/mepo.h",
+		"/home/fly/MotoG32_Backup_2026-08-31_18-24-21/user_apps.txt",
+		"/home/fly/Downloads/bc/backup_g32.sh",
+		"/home/fly/Documents/bc/text 2.txt",
+		"/home/fly/Documents/GraphicsLibrary/src/mepo.cpp",
+		"/home/fly/Documents/GraphicsLibrary/src/main.cpp",
+		"/home/fly/Documents/GraphicsLibrary/CMakeLists.txt",
+		"/home/fly/Documents/GraphicsLibrary/src/volk_vma.cpp",
+		"/home/fly/Documents/GraphicsLibrary/build.sh",
+		"/home/fly/android-studio-quail3-patch1-linux/android-studio/Install-Linux-tar.txt",
+		"/home/fly/Downloads/android-studio-quail3-patch1-linux/android-studio/Install-Linux-tar.txt",
+		"/home/fly/Downloads/android-studio-quail3-patch1-linux/android-studio/NOTICE.txt",
+		"/home/fly/Documents/GraphicsLibrary/include/mepo.h",
+		"/home/fly/Documents/HowToVulkan-main/source/main.cpp",
+		"/home/fly/Documents/GraphicsLibrary/include/App.hpp",
+		"/home/fly/Documents/GraphicsLibrary/shaders/default.vert",
+		"/home/fly/Documents/GraphicsLibrary/src/App.cpp",
+		"/home/fly/Downloads/modern-vulkan-lesson_01/src/main.cpp",
+		"/home/fly/Documents/GraphicsLibrary/libs/Vulkan-Headers-main/include/vulkan/vulkan_core.h",
+		"/home/fly/.config/hypr/config/binds.lua",
+		"/home/fly/.config/hypr/config/inputs.lua",
+		"/home/fly/.config/hypr/hyprland.lua",
+		"/home/fly/Documents/GraphicsLibrary/libs/VulkanMemoryAllocator-master/include/vk_mem_alloc.h",
+		"/home/fly/Downloads/1.4.357.0/README.txt",
+		"/home/fly/Downloads/HowToVulkan-main/source/main.cpp",
+		"/home/fly/Documents/GraphicsLibrary/libs/Vulkan-Headers-main/include/vulkan/vulkan.hpp",
+		"/media/fly/HiSuite/Autorun.inf",
+		"/home/fly/Downloads/HowToVulkan-main/source/assets/shader.slang",
+		"/home/fly/Documents/GraphicsLibrary/src/AppShaders.cpp",
+		"/home/fly/Documents/GraphicsLibrary/libs/glad-vk/vulkan.h",
+		"/home/fly/Documents/GraphicsLibrary/libs/glad/gl.h",
+		"/home/fly/Documents/GraphicsLibrary/include/idk.hpp",
+		"/home/fly/Documents/SoftwareRasterizer/image.bmp",
+		"/home/fly/Documents/SoftwareRasterizer/src/main.cpp",
+		"/home/fly/Documents/SoftwareRasterizer/include/idk.hpp",
+		"/home/fly/Documents/SoftwareRasterizer/src/idk.cpp",
+		"/home/fly/Documents/SoftwareRasterizer/build.sh",
+		"/home/fly/Documents/SoftwareRasterizer/CMakeLists.txt",
+		"/home/fly/Documents/SkyLands/src/0006-A/0005-A.md",
+		"/home/fly/Documents/untitled.sublime-project",
+		"/home/fly/Documents/Project1/src/main.cpp",
+		"/home/fly/Documents/Project1/libs/glfw-3.4/include/GLFW/glfw3.h",
+		"/home/fly/Documents/Project1/libs/glfw-3.4/CMakeLists.txt",
+		"/home/fly/Documents/Project1/CMakeLists.txt",
+		"/home/fly/Documents/Project1/libs/glfw-3.4/docs/html/search/mag_sel.svg",
+		"/home/fly/Documents/Project1/libs/glfw-3.4/src/CMakeLists.txt",
+		"/home/fly/Documents/Project1/libs/Vulkan-Headers-main/tests/vk_hpp_module.cpp",
+		"/home/fly/Documents/Project1/libs/Vulkan-Headers-main/tests/vk_hpp.cpp",
+		"/home/fly/Downloads/How to Vulkan in 2026 - How to Vulkan.html",
+		"/home/fly/Documents/Project1/Makefile",
+		"/home/fly/Documents/Project1/main.c",
+		"/home/fly/Documents/Project1/src/main.c",
+		"/home/fly/Downloads/tor-browser/Browser/execdesktop",
+		"/usr/include/stdio.h",
+		"/usr/include/stdlib.h",
+		"/usr/include/time.h",
+		"/home/fly/.cache/.fr-FID2S3/tor-browser/start-tor-browser.desktop",
+		"/usr/include/wait.h",
+		"/usr/include/threads.h",
+		"/home/fly/.config/sublime-text/Packages/User/clang_format_custom.sublime-settings",
+		"/home/fly/.config/sublime-text/Packages/User/clang_format.sublime-settings",
+		"/home/fly/.config/sublime-text/Packages/LSP/LSP.sublime-settings",
+		"/home/fly/.config/sublime-text/Packages/User/Package Control.sublime-settings",
+		"/home/fly/.config/sublime-text/Packages/User/LSP-clangd.sublime-settings",
+		"/home/fly/.config/sublime-text/Packages/User/LSP.sublime-settings",
+		"/home/fly/.config/sublime-text/Packages/User/Package Control.user-ca-bundle",
+		"/home/fly/.config/sublime-text/Packages/User/Sky.sublime-build",
+		"/usr/include/linux/random.h",
+		"/usr/include/c++/13/tr1/random.h",
+		"/home/fly/.config/sublime-text/Packages/Clang Format/clang_format_custom.sublime-settings",
+		"/home/fly/Documents/SkyLands/all/0001-A/0001-A.md",
+		"/home/fly/Documents/SkyLands/README.md",
+		"/home/fly/Documents/SkyLands/wiki/Software.md",
+		"/home/fly/Documents/SkyLands/all/0002-A/0002-A.md",
+		"/home/fly/Documents/godot/test/test.gdshader",
+		"/home/fly/Documents/all/0002-A/A4-scheme.obj",
+		"/home/fly/.config/waybar/config.jsonc",
+		"/home/fly/.config/hypr/hyprlock.conf",
+		"/home/fly/.config/waybar/style.css",
+		"/home/fly/.config/fastfetch/config.jsonc",
+		"/home/fly/.config/hypr/hyprland/look.lua",
+		"/home/fly/.config/hypr/hyprland/input.lua",
+		"/home/fly/test/output.txt",
+		"/home/fly/test/wordlist.txt",
+		"/home/fly/.config/hypr/hyprland/autostart.lua",
+		"/home/fly/.config/hypr/hyprpaper.conf",
+		"/run/user/1000/gvfs/mtp:host=motorola_moto_g32_ZY22G5TB2M/Internal shared storage/Documents/Mep/Franceza.md",
+		"/tmp/blender.crash.txt",
+		"/home/fly/.config/btop/btop.conf",
+		"/home/fly/.config/waybar/scripts/powermode.sh",
+		"/home/fly/.config/waybar/scripts/thinkfan.sh",
+		"/run/user/1000/gvfs/mtp:host=motorola_moto_g32_ZY22G5TB2M/Internal shared storage/Download/dw/text.txt",
+		"/run/user/1000/gvfs/mtp:host=motorola_moto_g32_ZY22G5TB2M/Internal shared storage/Download/dw/init",
+		"/home/fly/Downloads/power-profile.sh",
+		"/home/fly/Documents/bg-app/src/main.py",
+		"/home/fly/.config/hypr/hyprland/binds.lua",
+		"/home/fly/.config/wofi/config",
+		"/home/fly/.config/wofi/style.css",
+		"/home/fly/.config/waybar/styles.css",
+		"/home/fly/.config/hypr/hyprland/binds.conf",
+		"/home/fly/Projects/SkyLands/src/main.c"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 523.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"filesystem",
+			"ofstream"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".<>:\"/*",
+									"selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
+									"server": "LSP-clangd"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///home/fly/Projects/Manager/src/main.cpp",
+							"show_definitions": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 189.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 178.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/User/SkyLands.sublime-build",
+	"project": "Manager.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"all",
+				"src/all.hpp"
+			],
+			[
+				"ma",
+				"src/main.cpp"
+			],
+			[
+				"cmake",
+				"CMakeLists.txt"
+			],
+			[
+				"main",
+				"src/main.cpp"
+			],
+			[
+				"",
+				"src/main.cpp"
+			],
+			[
+				"cma",
+				"CMakeLists.txt"
+			],
+			[
+				"b",
+				"build.sh"
+			],
+			[
+				"buil",
+				"build/build.ninja"
+			],
+			[
+				"app.cp",
+				"src/App.cpp"
+			],
+			[
+				"app.",
+				"include/App.hpp"
+			],
+			[
+				"app",
+				"src/App.cpp"
+			],
+			[
+				"vma",
+				"libs/VulkanMemoryAllocator-master/include/vk_mem_alloc.h"
+			],
+			[
+				"ap",
+				"include/App.hpp"
+			],
+			[
+				"app.cpp",
+				"src/App.cpp"
+			],
+			[
+				"app.h",
+				"include/App.hpp"
+			],
+			[
+				"m",
+				"src/main.cpp"
+			],
+			[
+				"a",
+				"include/App.hpp"
+			],
+			[
+				"ima",
+				"image.bmp"
+			],
+			[
+				"i",
+				"src/idk.cpp"
+			],
+			[
+				"h",
+				"include/idk.hpp"
+			],
+			[
+				"ms",
+				"libs/glfw-3.4/docs/html/search/mag_sel.svg"
+			],
+			[
+				"gl",
+				"libs/glfw-3.4/include/GLFW/glfw3.h"
+			],
+			[
+				"back",
+				"omarchy/current/background"
+			],
+			[
+				"looknfeel",
+				"hypr/looknfeel.conf"
+			],
+			[
+				"vendor/trinket-perf_defconfig",
+				"BASE-files/android_kernel_motorola_msm-4.14/arch/arm/configs/vendor/trinket-perf_defconfig"
+			],
+			[
+				".config",
+				"test2/android_kernel_motorola_msm-4.14/out/.config"
+			],
+			[
+				"confi",
+				"test2/android_kernel_motorola_msm-4.14/scripts/config"
+			],
+			[
+				"fs/fuse/file.c",
+				"test2/android_kernel_motorola_msm-4.14/fs/fuse/file.c"
+			],
+			[
+				"build.",
+				"test2/android_kernel_motorola_msm-4.14/build.log"
+			],
+			[
+				" fs/fuse/file.c",
+				"test2/android_kernel_motorola_msm-4.14/fs/fuse/file.c"
+			],
+			[
+				"nano drivers/staging/android/lowmemorykiller.c",
+				"test1/android_kernel_motorola_msm-4.14/drivers/staging/android/lowmemorykiller.c"
+			],
+			[
+				"drivers/staging/android/lowmemorykiller.c",
+				"BASE-files/android_kernel_motorola_msm-4.14/drivers/staging/android/lowmemorykiller.c"
+			],
+			[
+				"ra",
+				"src/rares.c"
+			],
+			[
+				"te",
+				"src/test.c"
+			],
+			[
+				"test",
+				"src/test.c"
+			],
+			[
+				"fra",
+				"shaders/Fragment.glsl"
+			],
+			[
+				"sh",
+				"src/Shader.h"
+			],
+			[
+				"sha",
+				"src/Shader.h"
+			],
+			[
+				"fa",
+				"shaders/Fragment.glsl"
+			],
+			[
+				"f",
+				"shaders/Fragment.glsl"
+			],
+			[
+				"ar",
+				"src/Arrays.h"
+			],
+			[
+				"v",
+				"shaders/Vertex.glsl"
+			],
+			[
+				"am",
+				"libs/glfw-3.4/src/cocoa_monitor.m"
+			],
+			[
+				"cam",
+				"src/Camera.h"
+			],
+			[
+				"ve",
+				"shaders/Vertex.glsl"
+			],
+			[
+				"va",
+				"~/Documents/SkyLands/src/values.obj"
+			],
+			[
+				"far",
+				"shaders/Fragment.glsl"
+			],
+			[
+				"F",
+				"shaders/Fragment.glsl"
+			],
+			[
+				"ver",
+				"shaders/Vertex.glsl"
+			],
+			[
+				"val",
+				"~/Documents/SkyLands/src/values.obj"
+			],
+			[
+				"ob",
+				"src/Object.h"
+			],
+			[
+				"buf",
+				"build/libs/glfw-3.4/src/fractional-scale-v1-client-protocol.h"
+			],
+			[
+				"SHA",
+				"src/Shader.h"
+			],
+			[
+				"mA",
+				"src/main.c"
+			],
+			[
+				"M",
+				"src/main.c"
+			],
+			[
+				"color",
+				"src/COLORS.txt"
+			],
+			[
+				"glfw3.",
+				"libs/glfw-3.4/include/GLFW/glfw3.h"
+			],
+			[
+				"glfw.h",
+				"libs/glfw-3.4/include/GLFW/glfw3.h"
+			],
+			[
+				"bu",
+				"build.sh"
+			],
+			[
+				"r",
+				"include/RGFW/rgfw.c"
+			],
+			[
+				"tex",
+				"text.txt"
+			],
+			[
+				"R",
+				"RGFW.h"
+			],
+			[
+				"frag",
+				"shaders/Fragment.glsl"
+			],
+			[
+				"S",
+				"include/Shader.h"
+			],
+			[
+				"buff",
+				"include/Buffer.h"
+			],
+			[
+				"Sha",
+				"include/Shader.h"
+			],
+			[
+				"Sh",
+				"libs/glfw-3.4/examples/sharing.c"
+			],
+			[
+				"fr",
+				"rdm/shaders/Fragment.glsl"
+			],
+			[
+				"s",
+				"include/Shader.hpp"
+			],
+			[
+				"co",
+				"rdm/coords.txt"
+			],
+			[
+				"coo",
+				"rdm/coords.txt"
+			],
+			[
+				"rdm",
+				"rdm/coords.txt"
+			],
+			[
+				"P",
+				"src/Core/App.hpp"
+			],
+			[
+				"wi",
+				"src/UI/Window.cpp"
+			],
+			[
+				"w",
+				"src/UI/Window.hpp"
+			],
+			[
+				"H",
+				"libs/Sky/include/VkHelp.hpp"
+			],
+			[
+				"hel",
+				"libs/Sky/include/VkHelp.hpp"
+			],
+			[
+				"win",
+				"libs/Sky/include/Window.hpp"
+			],
+			[
+				"he",
+				"libs/Sky/include/VkHelp.hpp"
+			],
+			[
+				"Vk",
+				"libs/Sky/include/VkHelp.hpp"
+			],
+			[
+				"Win",
+				"libs/Sky/include/Window.hpp"
+			],
+			[
+				"MA",
+				"src/main.cpp"
+			],
+			[
+				"Us",
+				"include/Utils.h"
+			],
+			[
+				"Ut",
+				"include/Utils.h"
+			],
+			[
+				"U",
+				"include/Utils.h"
+			],
+			[
+				"lo",
+				"include/Loader.h"
+			],
+			[
+				"me",
+				"include/sky/Mesh.h"
+			],
+			[
+				"W",
+				"include/Window.h"
+			],
+			[
+				"de",
+				"shaders/Default.glsl.frag"
+			],
+			[
+				"sk",
+				"src/Sky.cpp"
+			],
+			[
+				"Fra",
+				"shaders/Fragment.glsl.frag"
+			],
+			[
+				"sky",
+				"include/sky/Sky.hpp"
+			],
+			[
+				"sky.hpp",
+				"include/sky/Sky.hpp"
+			],
+			[
+				"gp",
+				"include/GraphicsPipeline.hpp"
+			],
+			[
+				"sw",
+				"include/SwapChain.hpp"
+			],
+			[
+				"Sk",
+				"include/Sky.hpp"
+			],
+			[
+				"c",
+				"CMakeLists.txt"
+			],
+			[
+				"23",
+				"build/CMakeFiles/4.2.3/CMakeCCompiler.cmake"
+			],
+			[
+				"cm",
+				"CMakeLists.txt"
+			],
+			[
+				"vu",
+				"Core/include/VulkanInstance.h"
+			],
+			[
+				"wind",
+				"include/Window.h"
+			],
+			[
+				"Fr",
+				"Shaders/Fragment.frag"
+			],
+			[
+				"wo",
+				"include/Window.h"
+			],
+			[
+				"T",
+				"include/Visuals/Test.h"
+			],
+			[
+				"vis",
+				"include/Visuals/Visuals.h"
+			],
+			[
+				"Si",
+				"include/App/SimpleOpti.h"
+			],
+			[
+				"vi",
+				"include/Visuals/Visuals.h"
+			],
+			[
+				"DE",
+				"include/Visuals/Device.h"
+			],
+			[
+				"pp",
+				"include/Visuals/Pipeline.h"
+			],
+			[
+				"Ver",
+				"Shaders/Vertex.vert"
+			],
+			[
+				"FRa",
+				"Shaders/Fragment.frag"
+			],
+			[
+				"p",
+				"include/Visuals/Pipeline.h"
+			],
+			[
+				"pip",
+				"include/Visuals/Pipeline.h"
+			],
+			[
+				"d",
+				"include/Visuals/Device.h"
+			],
+			[
+				"mai",
+				"src/main.cpp"
+			],
+			[
+				"vulka",
+				"include/Vulkan.h"
+			],
+			[
+				"wid",
+				"include/Window.h"
+			],
+			[
+				"gr",
+				"include/GraphicsPipeline.h"
+			],
+			[
+				"Q",
+				"include/Queues.h"
+			],
+			[
+				"g",
+				"include/GraphicsPipeline.h"
+			],
+			[
+				"RE",
+				"include/RenderPass.h"
+			],
+			[
+				"ivs",
+				"include/Visuals.h"
+			],
+			[
+				"G",
+				"include/GraphicsPipeline.h"
+			],
+			[
+				"su",
+				"include/Surface.h"
+			],
+			[
+				"vul",
+				"include/Vulkan.h"
+			],
+			[
+				"con",
+				"include/Config.h"
+			],
+			[
+				"mi",
+				"src/main.cpp"
+			],
+			[
+				"sur",
+				"include/Surface.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/SoftwareRasterizer/SoftwareRasterizer.sublime-project"
+			],
+			[
+				"ba",
+				"~/Projects/BaseLine/BaseLine.sublime-workspace"
+			],
+			[
+				"cma",
+				"~/Projects/modern-vulkan-lesson_01/modern-vulkan-lesson_01.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"build_panel_was_open": false,
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
