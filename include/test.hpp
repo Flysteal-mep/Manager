@@ -35,6 +35,7 @@ int CreateDatabase(const std::string& directory, const std::string& name)
 
     if (!outFile)
     {
+        std::cout << "- Failed to find database\n";
         return -1;
     }
 
@@ -66,4 +67,21 @@ json LoadDatabase(const std::string& filePath)
         std::cout << "- Invalid JSON: " << e.what() << '\n';
         return {};
     }
+}
+
+bool SaveDatabase(json& db, const std::string& directory, const std::string& name)
+{
+    std::ofstream outFile(
+        std::filesystem::path(directory) / name
+    );
+
+    if (!outFile)
+    {
+        std::cout << "- Failed to find database to save to\n";
+        return false;
+    }
+
+    outFile << db.dump(4);
+
+    return true;
 }
