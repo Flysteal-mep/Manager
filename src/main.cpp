@@ -8,7 +8,7 @@ using json = nlohmann::json;
 
 int main()
 {
-    std::cout << "- Curret path set to: " << std::filesystem::current_path() << '\n';
+    std::cout << "- Current path set to: " << std::filesystem::current_path() << '\n';
 
 // normal db check
 // {
@@ -27,7 +27,7 @@ int main()
     std::cout << "- Found database\n";
 // }
 
-// check the database strucure and inegrity
+// check the database sources and integrity
 // {
     std::ifstream file(".Manager/database.json");
 
@@ -51,12 +51,21 @@ int main()
     file.close();
 // }
 
-// do a filechek ( if the db files are in the path and if new files )
+// file check
 // {
-    // count db files
-    // count sysrem files
+    // count system files
+    for (const auto& entry : std::filesystem::directory_iterator("."))
+    {
+        if (entry.is_regular_file())
+        {
+            std::cout << entry.path() << ' ';
+            std::cout << entry.file_size() << '\n';
+        }
+    }
 
     // index
+
+    // compare db files
     // update new files
 // }
 
