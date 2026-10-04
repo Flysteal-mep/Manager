@@ -1,3 +1,39 @@
 {
-    
+    "files": [
+        {
+            "name": "2026-06-10-213709_hyprshot",
+            "path": "./2026-06-10-213709_hyprshot.png",
+            "size": 335752,
+            "tags": [
+                ".png"
+            ]
+        },
+        {
+            "name": "2026-06-10-214044_hyprshot",
+            "path": "./2026-06-10-214044_hyprshot.png",
+            "size": 405041,
+            "tags": [
+                ".png"
+            ]
+        },
+        {
+            "name": "2026-06-10-213659_hyprshot",
+            "path": "./2026-06-10-213659_hyprshot.png",
+            "size": 229436,
+            "tags": [
+                ".png"
+            ]
+        },
+        {
+            "name": "2026-06-10-213858_hyprshot",
+            "path": "./2026-06-10-213858_hyprshot.png",
+            "size": 269343,
+            "tags": [
+                ".png"
+            ]
+        }
+    ],
+    "info": {
+        "date": 101010
+    }
 }

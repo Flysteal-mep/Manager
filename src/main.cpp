@@ -10,7 +10,6 @@ int main()
 {
     std::cout << "- Current path set to: " << std::filesystem::current_path() << '\n';
 
-// normal db check
 // {
     if (!std::filesystem::exists(".Manager"))
     {
@@ -27,7 +26,8 @@ int main()
     std::cout << "- Found database\n";
 // }
 
-// check the database sources and integrity
+    json db;
+
 // {
     std::ifstream file(".Manager/database.json");
 
@@ -39,7 +39,7 @@ int main()
 
     try
     {
-        json db = json::parse(file);
+        db = json::parse(file);
         std::cout << "- Valid JSON database\n";
     }
     catch (const json::parse_error& e)
@@ -51,19 +51,40 @@ int main()
     file.close();
 // }
 
-// file check
 // {
-    // count system files
+
+    db["info"] =
+    {
+        {"date", 101010}
+    };
+    db["files"] = json::array();
+
+    // count system files & index
     for (const auto& entry : std::filesystem::directory_iterator("."))
     {
         if (entry.is_regular_file())
         {
-            std::cout << entry.path() << ' ';
-            std::cout << entry.file_size() << '\n';
+            db["files"].push_back(
+            {
+                {
+                    "name", entry.path().stem().string()
+                },
+                {
+                    "path", entry.path()
+                },
+                {
+                    "size", entry.file_size()
+                },
+                {
+                    "tags",
+                    {
+                        entry.path().extension(),
+                        
+                    }
+                }
+            });
         }
     }
-
-    // index
 
     // compare db files
     // update new files
@@ -71,6 +92,15 @@ int main()
 
 // {
     // save the changes
+    std::ofstream out_file(".Manager/database.json");
+
+    if (!out_file.is_open())
+    {
+        std::cerr << "= Failed to save database\n";
+        return -1;
+    }
+
+    out_file << db.dump(4);
 // }
 
     return 0;
